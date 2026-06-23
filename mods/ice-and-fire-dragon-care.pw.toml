@@ -1,0 +1,13 @@
+name = "Ice And Fire: Dragon Care"
+filename = "Ice and Fire - Dragon Care - 1.2.6 - 1.21.1v.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hlm7REws/versions/gxtpMOCJ/Ice%20and%20Fire%20-%20Dragon%20Care%20-%201.2.6%20-%201.21.1v.jar"
+hash-format = "sha512"
+hash = "691a006360219d6cfa4171a52b1204beba401cb0d3f781bc95a92684380709c157170b5baf198bb34cdefd17670b7df2f1f6f2a0d056c20bffa98352ebf55cbd"
+
+[update]
+[update.modrinth]
+mod-id = "Hlm7REws"
+version = "gxtpMOCJ"

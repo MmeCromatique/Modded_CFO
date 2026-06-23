@@ -1,0 +1,13 @@
+name = "Create Slice & Dice"
+filename = "sliceanddice-neoforge-4.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/Xx2KJlUq/sliceanddice-neoforge-4.3.0.jar"
+hash-format = "sha512"
+hash = "7e7889947214bb04f13a3a0f34e90d0e9674aac6e7b01bdea5a98834ba7cafabcfec25046d34d18d7ba54c500b2414075d5f4c2e144e47eaa56c5245f176be8c"
+
+[update]
+[update.modrinth]
+mod-id = "GmjmRQ0A"
+version = "Xx2KJlUq"

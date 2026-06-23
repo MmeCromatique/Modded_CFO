@@ -1,0 +1,13 @@
+name = "Abnormal Zombies"
+filename = "abnormal_zombies-2.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QulXFTNQ/versions/8uqE81vc/abnormal_zombies-2.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "94539e1dbfe5acc781676d2f637a857cc3b69013fbd26de2787a322996e1b2970a95a590a01919f19293225d0c039d54803b418136af4b18d1ac48c749d9e53c"
+
+[update]
+[update.modrinth]
+mod-id = "QulXFTNQ"
+version = "8uqE81vc"
