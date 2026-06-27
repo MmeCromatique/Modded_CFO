@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
-hash = "b1ec14892ade3126c6238f82a2adbd9154e8cb68891e3f41d61746c08aea07ab"
+hash = "bd6e5a7a9e97014a895f1b4c2c93f277bfe9dda92e3386483ab46a1bd739362d"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f4ec9f142fbd572f9da8253241b6c532bc9234e2defbe0e67e7ea7ea164d019c"
+hash = "b26f156be8a05063a0b08cb1afe7c76d392db90a9544f0500bd5c8821196bbe8"
 metafile = true
 
 [[files]]
