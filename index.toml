@@ -5,6 +5,18 @@ file = "com.unascribed.unsup.json"
 hash = "d9b0b87d6c95cf42cc4ec1a07ded436bb80ebaa146676075b6e24a4a2e5b9e94"
 
 [[files]]
+file = "config/cumulus_menus-client.toml"
+hash = "b82f5aef193bd64d86e58ac5a0b5b6b9b4976a137584d783a86798b574231664"
+
+[[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "912415518d024915356082d35d19b2ef04cea5580ab8979c6d5b172aae83f99a"
+
+[[files]]
 file = "mods/abnormal-zombies.pw.toml"
 hash = "1c64c89e4a38c6681659bfb17f8ca1f2265d8ac0e874be2167bf56836ea684b6"
 metafile = true

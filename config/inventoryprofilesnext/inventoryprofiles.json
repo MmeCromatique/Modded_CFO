@@ -1,0 +1,22 @@
+{
+    "Features": {
+        "highlight_foused_items": {
+            "value": false
+        }
+    },
+    "ModSettings": {
+        "highlight_foused_items_foreground": false,
+        "first_run": false,
+        "highlight_foused_items": {
+            "value": false
+        }
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        }
+    }
+}
