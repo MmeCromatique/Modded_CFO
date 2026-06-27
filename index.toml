@@ -6,7 +6,7 @@ hash = "d9b0b87d6c95cf42cc4ec1a07ded436bb80ebaa146676075b6e24a4a2e5b9e94"
 
 [[files]]
 file = "config/cumulus_menus-client.toml"
-hash = "b82f5aef193bd64d86e58ac5a0b5b6b9b4976a137584d783a86798b574231664"
+hash = "2b048cb3912b920eda7c6bc030d5c074d62b9a912ceabea39d83bb19aa18f8cb"
 
 [[files]]
 file = "config/iceandfire/iaf-client.json"
