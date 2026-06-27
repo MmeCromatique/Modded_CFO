@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "eec0715d020c6079c430338684d4cd752aa55231cb7887174b361481834e3ac4"
+hash = "03db1002af8f411a1b594817232859247e352f16f1c7907d29893b3472dce440"
 metafile = true
 
 [[files]]
@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "9a5e7562b6a82d3817958d3b0f1361a1e9f0cae52c3598a305539f7330e5e629"
+hash = "78db765f0e28a4b20bb926fdd5e4150f0ce756c5893d91320aee6ba62252b530"
 metafile = true
 
 [[files]]
