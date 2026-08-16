@@ -62,11 +62,6 @@ hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
 
 [[files]]
-file = "mods/aethersteel.pw.toml"
-hash = "901b87374e6d70237b67c70dfcf2f65d2052504bcd7d68f4d13b27ec64cf66ea"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves-(unofficial-port).pw.toml"
 hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
