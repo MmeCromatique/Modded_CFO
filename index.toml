@@ -187,6 +187,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "2b61d5100f1db31c7928ba7de237c5f863926c49a4bf53fcce27bf0371ec0575"
 metafile = true
@@ -329,36 +334,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-biomes-o-plenty.pw.toml"
-hash = "1b89507fb7bc8c2ed11c020a9014ce4a6552e7d0fe0522f6c1107a27e9c89f07"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-bwg.pw.toml"
-hash = "097461af0ddd90e780b2918ff6e30de046feae89ecf54f7a14167955e3c1a218"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-quark.pw.toml"
-hash = "87a61d4fb5ff4a4800c3af8f71ba66e79583b769b6b53f50dcb5089cd660774f"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-ru.pw.toml"
-hash = "e3f9f48604105ea27b57bead64835e80657c694f8a58ad794b3ceef175bd425c"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "276da3b2d9f2566484467c3654df5e963b64a56f96a130fd5af88b1413dca65c"
-metafile = true
-
-[[files]]
-file = "mods/dynamictreesplus.pw.toml"
-hash = "a8bd418c6fa0d8fafaeeff65467261713ddd0698f4bd7d6e08b4df8f78303910"
 metafile = true
 
 [[files]]
@@ -889,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "8757967b6fda327281f7f360f2ac4f8d6aab217ad9d1ce3d8fa5141b18a36175"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
 metafile = true
 
 [[files]]
