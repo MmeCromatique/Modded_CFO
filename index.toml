@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -472,6 +472,11 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
+file = "mods/gputape.pw.toml"
+hash = "c23254e855e6e646ad1f774f0d2871b3bebab2a1fe847385d586089baef49347"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
@@ -534,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "24108936876681291323c2ba37f0a8da6ae4a779411e360d480f21ab145c396b"
 metafile = true
 
 [[files]]
@@ -687,6 +697,11 @@ hash = "31504d0134a5afa54c6ed91da93e06f628806669a50261dae24e2c781c74278d"
 metafile = true
 
 [[files]]
+file = "mods/numflux.pw.toml"
+hash = "f9468dadc351c0f938c42af2a5472833b57c420f1358ae70d0ee0181439abbf1"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "fdaa22d49ee4987c2d0c012e24c7b44d50a653519767d18371e8d778c188f184"
 metafile = true
@@ -714,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/pet-cemetery.pw.toml"
 hash = "f54003416e887882952b9a07e339829362c2c597ccd2d651c0a03d2120fb8a3a"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
 
 [[files]]
@@ -779,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "9828d3510390e79c136bd9269fb7d09dc4996cf26518780e2cd8f532399e26e6"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "9d9330972174ff5c68779f15ecd7023b357eb2e0a5bdc99b63ca7768e90616f1"
 metafile = true
 
 [[files]]
@@ -894,6 +919,11 @@ metafile = true
 [[files]]
 file = "mods/uranus.pw.toml"
 hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "NumFlux"
+filename = "NumFlux-1.0.4-1.21.1-neo.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Bm2WDXm/versions/Bwy8GB9X/NumFlux-1.0.4-1.21.1-neo.jar"
+hash-format = "sha512"
+hash = "bbe94fa6226523d369d8e03ebdbe19fc0d95e22d7e6c862ae71c39bbbada7572261f6bb8ffc2c74ef2314778ba3c52ab3911f5ed121d4f8d2dfc2384658b773e"
+
+[update]
+[update.modrinth]
+mod-id = "1Bm2WDXm"
+version = "Bwy8GB9X"
