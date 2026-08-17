@@ -802,11 +802,6 @@ hash = "9828d3510390e79c136bd9269fb7d09dc4996cf26518780e2cd8f532399e26e6"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "9d9330972174ff5c68779f15ecd7023b357eb2e0a5bdc99b63ca7768e90616f1"
-metafile = true
-
-[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "51a0eea1834c166d9bed01170f686741863b6e16a49b71d219b69ecbc6206807"
 metafile = true
