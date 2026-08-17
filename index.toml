@@ -667,6 +667,11 @@ hash = "9e39be3df26ced3bdf643753f1cb4c2053810ea385608e5b6f5edbd9825347e2"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "e68a5fa89a2b2c17a3f807875c8f32b5f69d7c083a8c88e8f29f3832c9bb4385"
 metafile = true
